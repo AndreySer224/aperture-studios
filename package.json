@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "parsel": "^0.3.0",
+    "sass": "^1.80.6"
+  },
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  }
+}
